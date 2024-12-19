@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/home/mlm439/chisel-project/src/test/scala/test.scala:2:16: object test is not a member of package chisel3[0m
+[0m[[0m[31merror[0m] [0m[0mdid you mean Reset?[0m
+[0m[[0m[31merror[0m] [0m[0mimport chisel3.test._[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mlm439/chisel-project/src/test/scala/test.scala:5:52: not found: type ChiselScalatestTester[0m
+[0m[[0m[31merror[0m] [0m[0mclass DaddaMultiplierTest extends AnyFlatSpec with ChiselScalatestTester {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mlm439/chisel-project/src/test/scala/test.scala:9:5: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m    test(new DaddaTreeMultiplier(width = 4)) { dut =>[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
