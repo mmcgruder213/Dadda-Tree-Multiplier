@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/mlm439/chisel-project/target/scala-2.13/chisel-project_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HalfAdder$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mlm439/chisel-project/target/scala-2.13/classes/HalfAdder$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FullAdder$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mlm439/chisel-project/target/scala-2.13/classes/FullAdder$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RippleCarryAdder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mlm439/chisel-project/target/scala-2.13/classes/RippleCarryAdder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DaddaTreeMultiplier$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mlm439/chisel-project/target/scala-2.13/classes/DaddaTreeMultiplier$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DaddaTreeMultiplier$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mlm439/chisel-project/target/scala-2.13/classes/DaddaTreeMultiplier$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RippleCarryAdder$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mlm439/chisel-project/target/scala-2.13/classes/RippleCarryAdder$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DaddaTreeMultiplier.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mlm439/chisel-project/target/scala-2.13/classes/DaddaTreeMultiplier.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DaddaTreeMultiplier$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mlm439/chisel-project/target/scala-2.13/classes/DaddaTreeMultiplier$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HalfAdder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mlm439/chisel-project/target/scala-2.13/classes/HalfAdder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FullAdder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mlm439/chisel-project/target/scala-2.13/classes/FullAdder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

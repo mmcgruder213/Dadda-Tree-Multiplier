@@ -1,0 +1,14 @@
+[info] welcome to sbt 1.10.6 (Ubuntu Java 11.0.25)
+[info] loading project definition from /home/mlm439/chisel-project/project
+[info] loading settings for project root from build.sbt...
+[info] set current project to chisel-project (in build file:/home/mlm439/chisel-project/)
+[success] Total time: 0 s, completed Dec 15, 2024, 5:43:44 PM
+[info] compiling 1 Scala source to /home/mlm439/chisel-project/target/scala-2.13/classes ...
+[warn] /home/mlm439/chisel-project/src/main/scala/wallace_tree_mult.scala:80:22: class ChiselStage in package stage is deprecated (since Chisel 3.6): this feature will not be supported as part of the migration to the MLIR-based FIRRTL Compiler (MFC). For more information about this migration, please see the Chisel ROADMAP.md. Please switch to circt.stage.ChiselStage.
+[warn]   (new chisel3.stage.ChiselStage).emitVerilog(
+[warn]                      ^
+[warn] one warning found
+[info] done compiling
+[info] running WallaceTreeMultiplier 
+Starting Verilog generation...
+[success] Total time: 9 s, completed Dec 15, 2024, 5:43:53 PM

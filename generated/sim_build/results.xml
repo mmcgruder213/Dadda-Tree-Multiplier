@@ -1,0 +1,7 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1734539058" />
+    <testcase name="multiplier_basic_test" classname="test" file="/home/mlm439/chisel-project/generated/test.py" lineno="11" time="0.0057506561279296875" sim_time_ns="1.001" ratio_time="174.06709386401326" />
+    <testcase name="multiplier_all_test" classname="test" file="/home/mlm439/chisel-project/generated/test.py" lineno="18" time="5.529523134231567" sim_time_ns="65536.00099999999" ratio_time="11852.01678500753" />
+  </testsuite>
+</testsuites>
